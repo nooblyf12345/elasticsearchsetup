@@ -20,6 +20,9 @@ output {
 
 
 OR
+https://www.elastic.co/guide/en/elasticsearch/reference/current/aliases.html
 
+https://bigdataboutique.com/blog/multi-tenancy-with-elasticsearch-and-opensearch-c1047b?gclid=CjwKCAjw6eWnBhAKEiwADpnw9tFJ4iB4CAn82di7SC8S-bg4WzQABtGeiaQEEVju8QVwL1ndnBQgFRoChlAQAvD_BwE
+https://stackoverflow.com/questions/29941296/how-to-create-an-alias-on-two-indexes-with-logstash
 
 
