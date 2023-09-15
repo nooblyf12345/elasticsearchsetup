@@ -92,6 +92,7 @@ GET _alias/alias_tenant3/_search
 If you set up individual indexes the storage consumption increases significantly
 If you set up aliases the searching time increases
 
+#You can read more about these approaches here
 
 
 https://www.elastic.co/guide/en/elasticsearch/reference/current/aliases.html
